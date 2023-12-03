@@ -4,7 +4,7 @@ Homebrew CNC system suitable for digitizing, scanning, 3D modeling coins.
 Focus stacking rail, and 3D scanning trunnion..
 
 
-![](images/scanner_3D_comp.png)
+![](images/44henning.png)
 
 Based on Pi HQ camera with macro lens, MakerbeamXL aluminum extrusions, and 
 inexpensive Arduino based GRBL CNC controllers.
